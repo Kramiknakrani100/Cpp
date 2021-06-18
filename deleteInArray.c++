@@ -13,7 +13,7 @@ int deletes(int arr[], int n, int x)
         }
     }
     if (i == n)
-    { //th4tg
+    { 
         return n;
     }
 
