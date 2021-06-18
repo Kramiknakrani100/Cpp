@@ -17,7 +17,7 @@ void Leadersort(int arr[], int n)
 
         if (flag == false)
         {
-            cout << arr[i] << " ";
+            cout << arr[i] << "     ";?// change
         }
     }
 }
